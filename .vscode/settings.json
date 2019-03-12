@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\dhruv\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#e16fcd",
+        "titleBar.inactiveBackground": "#e16fcd99",
+        "statusBar.background": "#e16fcd",
+        "statusBarItem.hoverBackground": "#d845be"
+    }
+}

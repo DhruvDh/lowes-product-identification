@@ -100,5 +100,16 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# image data
+data/
+data/combined
+data/new_trained
+data/train
+data/validation
+
+.jpg
+
+*.jpg
+
 # mypy
 .mypy_cache/
